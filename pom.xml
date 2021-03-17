@@ -38,7 +38,7 @@
     <retrofit1-okhttp3-client.version>1.1.0</retrofit1-okhttp3-client.version>
     <guava.version>26.0-jre</guava.version>
     <backo.version>1.0.0</backo.version>
-    <spring.boot.version>1.2.5.RELEASE</spring.boot.version>
+    <spring.boot.version>1.5.22.RELEASE</spring.boot.version>
     <docopt.version>0.6.0.20150202</docopt.version>
 
     <!-- Test Dependencies -->
@@ -218,7 +218,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
               </pluginExecutions>
@@ -261,7 +261,7 @@
             <format>html</format>
             <format>xml</format>
           </formats>
-          <check />
+          <check/>
         </configuration>
       </plugin>
       <plugin>
